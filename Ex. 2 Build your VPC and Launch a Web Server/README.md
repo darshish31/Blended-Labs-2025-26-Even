@@ -2,9 +2,8 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: DARSHINI B
+* **Register Number**: 212224230051
 
 ---
 
@@ -85,13 +84,17 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+* I started the lab and logged into the Amazon Web Services Management Console in the N. Virginia (us-east-1) region.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+* I created a custom VPC using Amazon VPC, configured public and private subnets, and enabled an Internet Gateway and NAT Gateway to manage internet connectivity.
+
+* I added additional public and private subnets in a second Availability Zone and updated the route tables to ensure proper routing for both internet-facing and private traffic.
+
+* I created a Security Group named Web Security Group and configured it to allow HTTP (port 80) access from anywhere to enable web traffic.
+
+* I launched an EC2 instance using Amazon EC2 in the public subnet, enabled auto-assign public IP, attached the security group, and selected the required key pair.
+
+* I configured a user data script to automatically install Apache and deploy a web application, then verified the web server by accessing the instance’s public DNS in a browser.
 
 ---
 
@@ -99,19 +102,20 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1919" height="968" alt="Screenshot 2026-02-13 222914" src="https://github.com/user-attachments/assets/69b5526f-300c-491b-ab08-56e4f9bf3122" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1919" height="971" alt="Screenshot 2026-02-13 225302" src="https://github.com/user-attachments/assets/34a8cd0c-9234-483a-a661-96dedd9bbe0a" />
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+
+<img width="1919" height="1029" alt="Screenshot 2026-02-13 225704" src="https://github.com/user-attachments/assets/df097ca9-92f8-45af-b2c8-4f3bc3051681" />
 
 ---
 
