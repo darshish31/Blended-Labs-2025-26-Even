@@ -28,14 +28,16 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1084" alt="image" src="https://github.com/user-attachments/assets/a918e0c3-76b0-4fa6-b475-0bcadb948598" />
+
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/53ccb06b-ef34-4963-bd83-1b9b65baeab6" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,7 +45,10 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/924a0d10-c37a-4455-b2d8-889b8a8b98da" />
+![Uploading image.png…]()
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/cb63d747-559c-4cb4-b3f6-22d905dd624a" />
+
 
 
 ## Workflow
@@ -66,6 +71,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** DARSHINI B [212224230051]
 **Course:** Introduction to Cloud Computing  
 
