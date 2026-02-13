@@ -46,7 +46,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
 <img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/924a0d10-c37a-4455-b2d8-889b8a8b98da" />
-![Uploading image.png…]()
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/eb02f95f-0d0c-4202-8162-e07784ffa302" />
 <img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/cb63d747-559c-4cb4-b3f6-22d905dd624a" />
 
 
