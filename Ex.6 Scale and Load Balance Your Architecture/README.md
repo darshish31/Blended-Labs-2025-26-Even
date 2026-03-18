@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : DARSHINI B   
+Reg no : 212224230051   
+Date : 18/03/2026
 
 ---
 
@@ -66,12 +68,25 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ## Workflow (To be filled by Student)
 
-Describe step-by-step how you performed this experiment in your own words.
+1.Launch multiple servers.
 
+2.Deploy the application on each server.
+
+3.Create a load balancer.
+
+4.Add servers to the load balancer.
+
+5.Configure auto-scaling.
+
+6.Test load distribution.
 ---
 
 ## Output Screenshots 
 
+<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/9d0602e8-ceac-42e0-9dc0-f6870cfb298b" />
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/acfabb35-3e1d-45ab-92be-2441a5ab88c8" />
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/7152c979-2042-4734-b4c1-df94dc965573" />
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/15e23716-09ba-4dc6-971e-7924745bd632" />
 
 ---
 
